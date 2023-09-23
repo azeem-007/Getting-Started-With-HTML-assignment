@@ -1,0 +1,18 @@
+The comment tag is used to insert comments in the source code. Comments are not displayed in the browsers.
+You can use comments to explain your code, which can help you when you edit the source code at a later date. 
+This is especially useful if you have a lot of code.
+<!-- Write your comments here -->.This tag is known as comment tag.
+Example of use of comment tag is given below-
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This is a paragraph.</p>
+
+<!-- <p>This is another paragraph in comment tag</p> -->
+
+<p>This is a paragraph too.</p>
+
+</body>
+</html>
